@@ -1,0 +1,7 @@
+Flask 
+Flask-Cors 
+deep_translator 
+langdetect 
+pandas 
+sentence-transformers
+numpy
