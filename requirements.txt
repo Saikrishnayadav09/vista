@@ -5,3 +5,4 @@ langdetect
 pandas 
 sentence-transformers
 numpy
+gunicorn
